@@ -1,6 +1,7 @@
 <?php
-use classes\Course;
-use classes\Student;
+
+use ex01\classes\Course;
+use ex01\classes\Student;
 
 require_once "./classes/Course.php";
 require_once "./classes/Student.php";

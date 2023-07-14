@@ -1,6 +1,6 @@
 <?php
 
-namespace classes;
+namespace ex01\classes;
 
 class Student
 {
